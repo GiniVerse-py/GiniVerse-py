@@ -78,7 +78,7 @@
       <br/><b>NumPy</b>
     </td>
     <td align="center">
-      <a href="certificates/python.png">
+      <a href="numpy.jpeg">
         <img src="certificates/python.png" width="200"/>
       </a>
       <br/><b>Python for Data Science</b>
