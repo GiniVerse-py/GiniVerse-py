@@ -72,8 +72,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="certificates/numpy.png">
-        <img src="certificates/numpy.png" width="200"/>
+      <a href="numpy.jpeg">
+        <img src="numpy.jpeg" width="200"/>
       </a>
       <br/><b>NumPy</b>
     </td>
