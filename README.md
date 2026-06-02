@@ -90,13 +90,11 @@
       <br/><b>Data Fundamentals</b>
     </td>
     <td align="center">
-      <a href="Data Science Tools.jpeg">
-        <img src="Data Science Tools.jpeg" width="200"/>
+      <a href="Data Scienece Tools.jpeg">
+        <img src="Data Scienece Tools.jpeg" width="200"/>
       </a>
-      <br/><b>Data Science Tools</b>
+      <br/><b>Data Scienece Tools</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Data Analysis.jpeg">
         <img src="Data Analysis.jpeg" width="200"/>
@@ -116,16 +114,22 @@
       <br/><b>Python2.jpeg</b>
     </td>
     <td align="center">
-      <a href="Cloud Computing.jpeg">
-        <img src="Cloud Computing.jpeg" width="200"/>
+      <a href="cloud computing.jpeg">
+        <img src="cloud computing.jpeg" width="200"/>
       </a>
-      <br/><b>Cloud Computing</b>
+      <br/><b>cloud computing</b>
     </td>
     <td align="center">
       <a href="HTML5.jpeg">
         <img src="HTML5.jpeg" width="200"/>
       </a>
       <br/><b>HTML5</b>
+    </td>
+    <td align="center">
+      <a href="CSS.jpeg">
+        <img src="CSS.jpeg" width="200"/>
+      </a>
+      <br/><b>CSS</b>
     </td>
   </tr>
 </table>
