@@ -78,48 +78,54 @@
       <br/><b>NumPy</b>
     </td>
     <td align="center">
-      <a href="numpy.jpeg">
-        <img src="certificates/python.png" width="200"/>
+      <a href="Python for DS.jpeg">
+        <img src="Python for DS.jpeg" width="200"/>
       </a>
       <br/><b>Python for Data Science</b>
     </td>
     <td align="center">
-      <a href="certificates/ml.png">
-        <img src="certificates/ml.png" width="200"/>
+      <a href="Data Fundamentals.jpeg">
+        <img src="Data Fundamentals.jpeg" width="200"/>
       </a>
-      <br/><b>Machine Learning</b>
+      <br/><b>Data Fundamentals</b>
     </td>
     <td align="center">
-      <a href="certificates/ai.png">
-        <img src="certificates/ai.png" width="200"/>
+      <a href="Data Science Tools.jpeg">
+        <img src="Data Science Tools.jpeg" width="200"/>
       </a>
-      <br/><b>AI Fundamentals</b>
+      <br/><b>Data Science Tools</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="certificates/sql.png">
-        <img src="certificates/sql.png" width="200"/>
-      </a>
-      <br/><b>SQL & Databases</b>
-    </td>
-    <td align="center">
-      <a href="certificates/data-analysis.png">
-        <img src="certificates/data-analysis.png" width="200"/>
+      <a href="Data Analysis.jpeg">
+        <img src="Data Analysis.jpeg" width="200"/>
       </a>
       <br/><b>Data Analysis</b>
     </td>
     <td align="center">
-      <a href="certificates/visualization.png">
-        <img src="certificates/visualization.png" width="200"/>
+      <a href="Python1.jpeg">
+        <img src="Python1.jpeg" width="200"/>
       </a>
-      <br/><b>Data Visualization</b>
+      <br/><b>Python1</b>
     </td>
     <td align="center">
-      <a href="certificates/capstone.png">
-        <img src="certificates/capstone.png" width="200"/>
+      <a href="Python2.jpeg">
+        <img src="Python2.jpeg" width="200"/>
       </a>
-      <br/><b>Data Science Capstone</b>
+      <br/><b>Python2.jpeg</b>
+    </td>
+    <td align="center">
+      <a href="Cloud Computing.jpeg">
+        <img src="Cloud Computing.jpeg" width="200"/>
+      </a>
+      <br/><b>Cloud Computing</b>
+    </td>
+    <td align="center">
+      <a href="HTML5.jpeg">
+        <img src="HTML5.jpeg" width="200"/>
+      </a>
+      <br/><b>HTML5</b>
     </td>
   </tr>
 </table>
