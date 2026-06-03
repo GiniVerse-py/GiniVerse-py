@@ -67,7 +67,7 @@
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <table>
   <tr>
@@ -180,6 +180,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiniVerse-py&theme=tokyo-night&hide_border=true&area=true&color=00BFFF&line=00BFFF&point=ffffff" width="96%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiniVerse-py/GiniVerse-py/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
