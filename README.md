@@ -12,6 +12,30 @@
 
 ---
 
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="model.jpeg">
+  </div>
+<li>
+ <b>Name:</b> Ananya Gupta </li>
+<li>
+<b>Gender:</b> she/her/Female
+</li>
+<li>
+<b>🌈 Beyond Tech</b>
+
+When I'm not coding, you'll probably find me:
+
+* 📺 Watching K-Dramas
+* 🎭 Binge-watching Rom-Com Hollywood movies
+* 🎧 Listening to music while coding or studying
+* 🎮 Gaming with friends
+* 🤖 Exploring creative AI tools and new technologies
+</b>
+<br><br><br><br>
+</div>
+
 ## 🧠 System Profile
 
 | Field | Info |
@@ -158,7 +182,7 @@
   </td>
   <td align="center">
     <img src="NIT RAIPUR.jpeg" width="250px" alt="Certificate 4"/><br/>
-    <sub><b>NIT RAIPUR.jpeg</b></sub>
+    <sub><b>NIT RAIPUR</b></sub>
   </td>
 </tr>
 </table>
