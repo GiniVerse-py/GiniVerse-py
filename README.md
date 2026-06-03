@@ -131,7 +131,36 @@
       </a>
       <br/><b>CSS</b>
     </td>
+    <td align="center">
+      <a href="AI FOR ALL.jpeg">
+        <img src="AI FOR ALL.jpeg" width="200"/>
+      </a>
+      <br/><b>AI FOR ALL</b>
+    </td>
   </tr>
+</table>
+
+<h2>🏆 Hackathons</h2>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="ARTPARK PROTODASH.jpeg" width="250px" alt="Certificate 1"/><br/>
+    <sub><b>ARTPARK PROTODASH</b></sub>
+  </td>
+  <td align="center">
+    <img src="IIT K.jpeg" width="250px" alt="Certificate 2"/><br/>
+    <sub><b>IIT K</b></sub>
+  </td>
+  <td align="center">
+    <img src="TIET.jpeg" width="250px" alt="Certificate 3"/><br/>
+    <sub><b>TIET</b></sub>
+  </td>
+  <td align="center">
+    <img src="NIT RAIPUR.jpeg" width="250px" alt="Certificate 4"/><br/>
+    <sub><b>NIT RAIPUR.jpeg</b></sub>
+  </td>
+</tr>
 </table>
 
 ---
