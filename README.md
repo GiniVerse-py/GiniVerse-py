@@ -12,29 +12,30 @@
 
 ---
 
-<div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="model.jpeg">
-  </div>
-<li>
- <b>Name:</b> Ananya Gupta </li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>🌈 Beyond Tech</b>
 
-When I'm not coding, you'll probably find me:
+<table>
+<tr>
+<td valign="top" width="60%">
 
-* 📺 Watching K-Dramas
-* 🎭 Binge-watching Rom-Com Hollywood movies
-* 🎧 Listening to music while coding or studying
-* 🎮 Gaming with friends
-* 🤖 Exploring creative AI tools and new technologies
-</b>
-<br><br><br><br>
-</div>
+**Name:** Ananya Gupta
+
+🌈 **Beyond Tech** — When I'm not coding, you'll probably find me:
+
+- 📺 Watching K-Dramas
+- 🎭 Binge-watching Rom-Com Hollywood movies
+- 🎧 Listening to music while coding or studying
+- 🎮 Gaming with friends
+- 🤖 Exploring creative AI tools and new technologies
+
+</td>
+<td valign="top" width="40%" align="right">
+
+<img src="model.jpeg" width="220" />
+
+</td>
+</tr>
+</table>
 
 ## 🧠 System Profile
 
