@@ -157,6 +157,12 @@
       <br/><b>CSS</b>
     </td>
     <td align="center">
+      <a href="GenAI.jpeg">
+        <img src="GenAI.jpeg" width="200"/>
+      </a>
+      <br/><b>GenAI</b>
+    </td>
+    <td align="center">
       <a href="AI FOR ALL.jpeg">
         <img src="AI FOR ALL.jpeg" width="200"/>
       </a>
