@@ -168,6 +168,12 @@
       </a>
       <br/><b>AI FOR ALL</b>
     </td>
+    <td align="center">
+      <a href="ai-skills-fest-2026.png">
+        <img src="ai-skills-fest-2026.png" width="200"/>
+      </a>
+      <br/><b>ai-skills-fest-2026</b>
+    </td>
   </tr>
 </table>
 
