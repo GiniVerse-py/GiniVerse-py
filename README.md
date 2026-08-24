@@ -203,6 +203,14 @@
     <img src="NIT RAIPUR.jpeg" width="250px" alt="Certificate 4"/><br/>
     <sub><b>NIT RAIPUR</b></sub>
   </td>
+  <td align="center">
+    <img src="bharatiya antariksh hackathon.jpeg" width="250px" alt="Certificate 2"/><br/>
+    <sub><b>bharatiya antariksh hackathon</b></sub>
+  </td>
+  <td align="center">
+    <img src="HackXtreme(gfg).png" width="250px" alt="Certificate 2"/><br/>
+    <sub><b>HackXtreme(gfg)</b></sub>
+  </td>
 </tr>
 </table>
 
