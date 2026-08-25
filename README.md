@@ -126,6 +126,8 @@
       </a>
       <br/><b>Data Scienece Tools</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="Data Analysis.jpeg">
         <img src="Data Analysis.jpeg" width="200"/>
@@ -156,6 +158,8 @@
       </a>
       <br/><b>HTML5</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="CSS.jpeg">
         <img src="CSS.jpeg" width="200"/>
