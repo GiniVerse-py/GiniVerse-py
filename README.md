@@ -221,6 +221,14 @@
     <img src="AspireForHer.jpeg" width="180px" alt="Certificate 7"/><br/>
     <sub><b>AspireForHer</b></sub>
   </td>
+  <td align="center">
+    <img src="elevate.jpeg" width="180px" alt="Certificate 7"/><br/>
+    <sub><b>elevate</b></sub>
+  </td>
+  <td align="center">
+    <img src="adobe hackathon.jpeg" width="180px" alt="Certificate 7"/><br/>
+    <sub><b>adobe hackathon</b></sub>
+  </td>
  </tr>
 </table>
 
