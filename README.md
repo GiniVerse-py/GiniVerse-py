@@ -237,8 +237,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giniverse-py&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=giniverse-py&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=giniverse-py&theme=nightowl&hide_border=true&background=0D0D15&stroke=1E1B2E&ring=A78BFA&fire=EC4899&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6D28D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giniverse-py&show_icons=true&bg_color=0D0D15&title_color=A78BFA&icon_color=EC4899&text_color=C4B5FD&border_color=1E1B2E&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giniverse-py&theme=blueberry_dark" width="96%" />
 </p>
 
 <p align="center">
