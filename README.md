@@ -192,30 +192,36 @@
 <table align="center">
  <tr>
   <td align="center">
-    <img src="ARTPARK PROTODASH.jpeg" width="250px" alt="Certificate 1"/><br/>
+    <img src="ARTPARK PROTODASH.jpeg" width="180px" alt="Certificate 1"/><br/>
     <sub><b>ARTPARK PROTODASH</b></sub>
   </td>
   <td align="center">
-    <img src="IIT K.jpeg" width="250px" alt="Certificate 2"/><br/>
+    <img src="IIT K.jpeg" width="180px" alt="Certificate 2"/><br/>
     <sub><b>IIT K</b></sub>
   </td>
   <td align="center">
-    <img src="TIET.jpeg" width="250px" alt="Certificate 3"/><br/>
+    <img src="TIET.jpeg" width="180px" alt="Certificate 3"/><br/>
     <sub><b>TIET</b></sub>
   </td>
   <td align="center">
-    <img src="NIT RAIPUR.jpeg" width="250px" alt="Certificate 4"/><br/>
+    <img src="NIT RAIPUR.jpeg" width="180px" alt="Certificate 4"/><br/>
     <sub><b>NIT RAIPUR</b></sub>
   </td>
   <td align="center">
-    <img src="bharatiya antariksh hackathon.jpeg" width="250px" alt="Certificate 2"/><br/>
+    <img src="bharatiya antariksh hackathon.jpeg" width="180px" alt="Certificate 5"/><br/>
     <sub><b>bharatiya antariksh hackathon</b></sub>
   </td>
+ </tr>
+ <tr>
   <td align="center">
-    <img src="HackXtreme(gfg).png" width="250px" alt="Certificate 2"/><br/>
+    <img src="HackXtreme(gfg).png" width="180px" alt="Certificate 6"/><br/>
     <sub><b>HackXtreme(gfg)</b></sub>
   </td>
-</tr>
+  <td align="center">
+    <img src="AspireForHer.jpeg" width="180px" alt="Certificate 7"/><br/>
+    <sub><b>AspireForHer</b></sub>
+  </td>
+ </tr>
 </table>
 
 ---
