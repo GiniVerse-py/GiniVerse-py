@@ -184,6 +184,12 @@
       </a>
       <br/><b>ai-skills-fest-2026</b>
     </td>
+    <td align="center">
+      <a href="ML infosys.jpeg">
+        <img src="ML infosys.jpeg" width="200"/>
+      </a>
+      <br/><b>ML infosys</b>
+    </td>
   </tr>
 </table>
 
