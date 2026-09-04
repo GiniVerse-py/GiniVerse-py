@@ -235,6 +235,10 @@
     <img src="adobe hackathon.jpeg" width="180px" alt="Certificate 7"/><br/>
     <sub><b>adobe hackathon</b></sub>
   </td>
+  <td align="center">
+    <img src="Tech Trivia.jpeg" width="180px" alt="Certificate 7"/><br/>
+    <sub><b>Tech Trivia</b></sub>
+  </td>
  </tr>
 </table>
 
