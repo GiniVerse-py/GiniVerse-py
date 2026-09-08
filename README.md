@@ -100,7 +100,7 @@
       <a href="agent-development-kit-adk.png">
         <img src="agent-development-kit-adk.png" width="200"/>
       </a>
-      <br/><b>agent-development-kit-adk</b>
+      <br/><b>Agent Development Kit (ADK)</b>
     </td>
     <td align="center">
       <a href="numpy.jpeg">
@@ -124,9 +124,10 @@
       <a href="Data Scienece Tools.jpeg">
         <img src="Data Scienece Tools.jpeg" width="200"/>
       </a>
-      <br/><b>Data Scienece Tools</b>
+      <br/><b>Data Science Tools</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="Data Analysis.jpeg">
@@ -138,19 +139,19 @@
       <a href="Python1.jpeg">
         <img src="Python1.jpeg" width="200"/>
       </a>
-      <br/><b>Python1</b>
+      <br/><b>Python</b>
     </td>
     <td align="center">
       <a href="Python2.jpeg">
         <img src="Python2.jpeg" width="200"/>
       </a>
-      <br/><b>Python2.jpeg</b>
+      <br/><b>Python 2</b>
     </td>
     <td align="center">
       <a href="cloud computing.jpeg">
         <img src="cloud computing.jpeg" width="200"/>
       </a>
-      <br/><b>cloud computing</b>
+      <br/><b>Cloud Computing</b>
     </td>
     <td align="center">
       <a href="HTML5.jpeg">
@@ -159,6 +160,7 @@
       <br/><b>HTML5</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="CSS.jpeg">
@@ -170,26 +172,41 @@
       <a href="GenAI.jpeg">
         <img src="GenAI.jpeg" width="200"/>
       </a>
-      <br/><b>GenAI</b>
+      <br/><b>Generative AI</b>
     </td>
     <td align="center">
       <a href="AI FOR ALL.jpeg">
         <img src="AI FOR ALL.jpeg" width="200"/>
       </a>
-      <br/><b>AI FOR ALL</b>
+      <br/><b>AI for All</b>
     </td>
     <td align="center">
       <a href="ai-skills-fest-2026.png">
         <img src="ai-skills-fest-2026.png" width="200"/>
       </a>
-      <br/><b>ai-skills-fest-2026</b>
+      <br/><b>AI Skills Fest 2026</b>
     </td>
     <td align="center">
       <a href="ML infosys.jpeg">
         <img src="ML infosys.jpeg" width="200"/>
       </a>
-      <br/><b>ML infosys</b>
+      <br/><b>Machine Learning - Infosys</b>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="GenAIEssentials.jpeg">
+        <img src="GenAIEssentials.jpeg" width="200"/>
+      </a>
+      <br/><b>GenAI Essentials</b>
+    </td>
+    <td align="center">
+    <a href="AIFundamentalFoundation.jpeg">
+      <img src="AIFundamentalFoundation.jpeg" width="200"/>
+    </a>
+    <br/><b>AI Fundamental Foundation</b>
+  </td>
   </tr>
 </table>
 
