@@ -193,7 +193,7 @@
       <br/><b>Machine Learning - Infosys</b>
     </td>
   </tr>
-
+  
   <tr>
     <td align="center">
       <a href="GenAIEssentials.jpeg">
@@ -202,10 +202,10 @@
       <br/><b>GenAI Essentials</b>
     </td>
     <td align="center">
-    <a href="AIFundamentalFoundation.jpeg">
-      <img src="AIFundamentalFoundation.jpeg" width="200"/>
-    </a>
-    <br/><b>AI Fundamental Foundation</b>
+      <a href="AI Fundamental.jpeg">
+        <img src="AI Fundamental.jpeg" width="200"/>
+      </a>
+      <br/><b>AI Fundamental</b>
   </td>
   </tr>
 </table>
@@ -253,6 +253,10 @@
     <sub><b>adobe hackathon</b></sub>
   </td>
   <td align="center">
+    <img src="Tech Trivia.jpeg" width="180px" alt="Certificate 7"/><br/>
+    <sub><b>Tech Trivia</b></sub>
+  </td>
+   <td align="center">
     <img src="Tech Trivia.jpeg" width="180px" alt="Certificate 7"/><br/>
     <sub><b>Tech Trivia</b></sub>
   </td>
