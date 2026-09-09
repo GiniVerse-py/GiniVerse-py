@@ -202,11 +202,17 @@
       <br/><b>GenAI Essentials</b>
     </td>
     <td align="center">
-      <a href="AI Fundamental.jpeg">
-        <img src="AI Fundamental.jpeg" width="200"/>
+      <a href="AIFundamentalFoundation.jpeg">
+        <img src="AIFundamentalFoundation.jpeg" width="200"/>
       </a>
-      <br/><b>AI Fundamental</b>
-  </td>
+      <br/><b>AIFundamentalFoundation</b>
+    </td>
+    <td align="center">
+      <a href="AI Fundamentals.jpeg">
+        <img src="AI Fundamentals.jpeg" width="200"/>
+      </a>
+      <br/><b>AI Fundamentals</b>
+    </td>
   </tr>
 </table>
 
