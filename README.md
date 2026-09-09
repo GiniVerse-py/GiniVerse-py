@@ -262,11 +262,14 @@
     <img src="Tech Trivia.jpeg" width="180px" alt="Certificate 7"/><br/>
     <sub><b>Tech Trivia</b></sub>
   </td>
+ </tr>
+
+ <tr>
    <td align="center">
     <img src="Tech Trivia.jpeg" width="180px" alt="Certificate 7"/><br/>
     <sub><b>Tech Trivia</b></sub>
   </td>
- </tr>
+</tr>
 </table>
 
 ---
